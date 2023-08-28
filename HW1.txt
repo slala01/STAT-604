@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <meta charset="utf-8">
+        <title> Shiv Lala </title>
+   </head>
+<br>
+   <body>
+      <table>
+         <tr>
+            <td> <a href = "https://stat.tamu.edu/"> Texas A&M Statistics Department </a> </td>
+            <td> <img width = 250 src = "1626367046251.jpg"/> </td>
+         </tr>
+         <tr>
+            <td>
+                <ul>
+                    <li> <b> I graduated with a Bachelor of Science from the University of Texas at San Antonio in 2020. </b> </li>
+                    <li> <b> I started the Master of Science in Statisitics program at Texas A&M University in Spring 2022. </b> </li>
+                </ul>
+            </td>
+            <td> </td>
+         </tr>
+      </table>
+   </body>
+</html>
